@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://13982720426.github.io" target="_blank">Jack Hoo</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-Hello everyone, I am Jackhoo (Hu Biao), a self-taught front-end web developer from China. I enjoy contributing to open source projects and learning from them
+
+
+Hello everyone, I am Jackhoo (Hu Biao), a self-taught front-end web developer from China. I enjoy contributing to open source projects and learning from them.
 
 ![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
 
