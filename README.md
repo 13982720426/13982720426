@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13982720426&layout=compact&theme=tokyonight)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=13982720426&limit=8)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13982720426&layout=compact&theme=tokyonight)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/13982720426/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=13982720426&limit=8)
-
-![](https://gitwar.herokuapp.com/badge?username=13982720426)
 
 
 
